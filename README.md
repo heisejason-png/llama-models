@@ -130,4 +130,4 @@ Please report any software “bug” or other problems with the models through o
 
 For common questions, the FAQ can be found [here](https://llama.meta.com/faq), which will be updated over time as new questions arise.
 Created by Jason Heise
- 
+ Owned by Jason Heise heisejason-png Giters
